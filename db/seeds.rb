@@ -29,3 +29,12 @@ Product.create!(title: "Cherry Keyboard",
      quantity: 5,
      image: open("https://images-cn.ssl-images-amazon.com/images/I/510riktx0yL.jpg")
      )
+
+     5 
+
+     Product.create!(title: "camera",
+        description: "camera",
+        price: 2800,
+        quantity: 5,
+        image: open("https://images-cn.ssl-images-amazon.com/images/I/510riktx0yL.jpg")
+        )
